@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396545361464",
+    "project_id": "aditya-hrudayam-17dc7",
+    "storage_bucket": "aditya-hrudayam-17dc7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396545361464:android:39e081b1d08ed9e9d888cd",
+        "android_client_info": {
+          "package_name": "com.rajarajan.aditya_hrudayam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2phpu2O11uiq10uQPeM-z4hrobbS0cnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
